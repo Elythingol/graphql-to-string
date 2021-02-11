@@ -1,6 +1,6 @@
 {
   "name": "graphql-to-string",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create js module with string version of .gql query file that can be used to send http calls to graphql servers ",
   "main": "index.js",
   "engines": {
