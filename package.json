@@ -1,0 +1,18 @@
+{
+  "name": "graphql-to-string",
+  "version": "1.0.0",
+  "description": "Create js module with string version of .gql query file that can be used to send http calls to graphql servers ",
+  "main": "index.js",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "keywords": [
+    "graphql",
+    "sfcc",
+    "query",
+    "stringify",
+    "demandware"
+  ],
+  "author": "Sergiy Ryazanov",
+  "license": "ISC"
+}
